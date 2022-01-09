@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\BMS_example"
+		},
+		{
+			"name": "peripheral_bms",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"nrf-connect.toolchain.path": "${nrf-connect.toolchain:1.7.1}",
+		"nrf-connect.topdir": "${nrf-connect.sdk:1.7.1}",
+		"nrf-connect.applications": [
+			"d:\\Documents\\nrf52\\ddd\\peripheral_bms"
+		]
+	}
+}
